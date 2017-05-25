@@ -2,11 +2,10 @@
 
 ## A simple web app to search for movie information, built using html, css, bootsrap, jQuery and javascript. Movie data is obtained from the omdb API.
 
-...
 Run the index.html on a server
 
 Sign up as a patron on the omdb api website and get access to an API key
-...
+
 
 ## Resources
 
