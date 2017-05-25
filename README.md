@@ -2,7 +2,11 @@
 
 ## A simple web app to search for movie information, built using html, css, bootsrap, jQuery and javascript. Movie data is obtained from the omdb API.
 
-### Run the index.html on a server
+...
+Run the index.html on a server
+
+Sign up as a patron on the omdb api website and get access to an API key
+...
 
 ## Resources
 
@@ -11,6 +15,8 @@ https://code.jquery.com/
 https://bootswatch.com/
 
 https://github.com/mzabriskie/axios
+
+http://www.omdbapi.com/
 
 
 ## ABOUT THE AUTHOR
@@ -22,4 +28,3 @@ LICENSE
 MIT © AAKANKSH YALAMARTHY
 
 Enjoy!
-
